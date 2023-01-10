@@ -94,6 +94,7 @@ main {
   padding: 1rem;
   border-radius: 1.2rem;
   max-width: 320px;
+  box-shadow: 0 0 1rem 0 hsla(219, 15%, 55%, 0.4);
 }
 
 .qr-code__img {
@@ -115,7 +116,7 @@ main {
 
 .attribution {
   background-color: var(--clr-100);
-  width: 100vw;
+  width: 100%;
   text-align: center;
   padding: 0.8rem;
   font-size: 0.9rem;
